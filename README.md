@@ -24,4 +24,4 @@ VITE_APP_KEY='ENTER YOUR API'
 
 ## Usage
 
-![demo](./src//assets/Capture.PNG)
+![demo](./src//assets/Capture10.PNG)
